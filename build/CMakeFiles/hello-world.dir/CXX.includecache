@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/an/sourceCode/VSC_cpp/cookbook/chapter-01/recipe-01/cxx-example/hello-world.cpp
+cstdlib
+-
+iostream
+-
+string
+-
+

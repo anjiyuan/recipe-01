@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/hello-world.dir/hello-world.cpp.o  -o Debug/hello-world 
